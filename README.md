@@ -30,12 +30,19 @@ you can find me on the Facebook Group as Eduardo Sousa or on discord @EduardoSou
 
 Credits, from the original version and Readme, go to Simon Vez
 
-<img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Printed-Standoffs-MGN12%20Mood.png?raw=true"><img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Printed-Standoffs-MGN12%20Mood_2.png">
+<img width="400" alt="image" src="?raw=true"><img width="400" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/blob/b829b2465c4e3e6ab6a0032d91fe472c0ee52a36/images/VzBot_Printed_Print_Head_MGN12H_MGN9H_Hybrid_V2_1.png">
 
-Front printed StandOffs
+<img width="400" alt="image" src="?raw=true"><img width="400" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/blob/b829b2465c4e3e6ab6a0032d91fe472c0ee52a36/images/VzBot%20Printed%20Print%20Head%20MGN12H_MGN9H%20Hybrid%20V2%20v1%202.png">
 
-<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Standoffs.png"><img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Front.png">
-<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/back_plate.png"><img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/bottom_plate.png">
+<img width="400" alt="image" src="?raw=true"><img width="400" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/blob/b829b2465c4e3e6ab6a0032d91fe472c0ee52a36/images/VzBot%20Printed%20Print%20Head%20MGN12H_MGN9H%20Hybrid%20V2%20v1%203.pn">
+
+<img width="400" alt="image" src="?raw=true"><img width="400" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/blob/b829b2465c4e3e6ab6a0032d91fe472c0ee52a36/images/VzBot%20Printed%20Print%20Head%20MGN12H_MGN9H%20Hybrid%20V2%20v1%204.pn">
+
+<img width="400" alt="image" src="?raw=true"><img width="400" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/blob/b829b2465c4e3e6ab6a0032d91fe472c0ee52a36/images/VzBot%20Printed%20Print%20Head%20MGN12H_MGN9H%20Hybrid%20V2%20v1%205.pn">
+
+<img width="400" alt="image" src="?raw=true"><img width="400" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/blob/b829b2465c4e3e6ab6a0032d91fe472c0ee52a36/images/VzBot%20Printed%20Print%20Head%20MGN12H_MGN9H%20Hybrid%20V2%20v1%206.pn">
+
+<img width="400" alt="image" src="?raw=true"><img width="400" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/blob/b829b2465c4e3e6ab6a0032d91fe472c0ee52a36/images/VzBot_Printed_Print_Head_MGN12H_MGN9H_Hybrid_V2_4.png">
 
 Print orientation redy to slice stl with all parts
 

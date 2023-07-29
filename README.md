@@ -17,6 +17,9 @@ In this Mood, the top plate is to MGN12 H or MGN9 H to fit Orbiter 1.5 extruder 
 here are all parts for the mood.
 
 Add BVL option
+
+<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/main/images/VzBot%20Printed%20Print%20Head%20MGN12H_MGN9H%20Hybrid%20V2%20v4%20BVL.png">
+
 Add Back Plate with tencioner otpion
 
 <img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/main/images/Backplate%20MGN12H%20w-tensioner%20v2.PNG">

@@ -40,4 +40,4 @@ Credits, from the original version and Readme, go to Simon Vez
 
 Print orientation redy to slice stl with all parts
 
-<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Print_orientation.png">
+<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/main/images/Bed%20print_full.PNG">

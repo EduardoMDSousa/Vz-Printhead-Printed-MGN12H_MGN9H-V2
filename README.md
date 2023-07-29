@@ -1,5 +1,5 @@
-# Vz-Printhead-Printed-MGN12H_MGN9H-V2 for orbiter 1.5
-Vz-Printhead-Printed MGN12H_MGN9H-V2 New
+# Vz-Printhead-Printed-MGN12H_MGN9H-V2 Hybrid for orbiter 1.5
+Vz-Printhead-Printed MGN12H_MGN9H-V2 Hybrid New
 
 This Print Printed Head is to user be able to use Orbiter 1.5 with the Vzbot print printed head
 the big change is on back plate and the adin of the extruder adapter plat. this print head grow on back 4mm, but all the parts ar compatible
@@ -15,6 +15,10 @@ The Vz-Printhead is a light weight and stiff head made for the VzBoTs, with MGN1
 In this Mood, the top plate is to MGN12 H or MGN9 H to fit Orbiter 1.5 extruder but cam be used for others since is the same plate, only back plate changes, all the duct etc are the same, for that reason those parts are not available here.
 
 here are all parts for the mood.
+
+Orbiter 1.5 adater plate
+
+<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/main/images/orbiter1.5%20adapter%20plate.PNG">
 
 Add BVL option
 

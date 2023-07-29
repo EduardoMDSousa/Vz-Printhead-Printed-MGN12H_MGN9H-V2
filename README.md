@@ -16,6 +16,12 @@ In this Mood, the top plate is to MGN12 H or MGN9 H to fit Orbiter 1.5 extruder 
 
 here are all parts for the mood.
 
+Add BVL option
+Add Back Plate with tencioner otpion
+
+<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/main/images/Backplate%20MGN12H%20w-tensioner%20v2.PNG">
+
+
 Note this mood uses 4 M3x45mm screws and 4 M3 lock nuts
 
 It is available Good with description of the parts to facilitate the assembly.
@@ -40,4 +46,8 @@ Credits, from the original version and Readme, go to Simon Vez
 
 Print orientation redy to slice stl with all parts
 
-<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Print_orientation.png">
+<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/main/images/Bed%20print_full.PNG">
+
+Print orientation redy to slice stl with all parts ( for BVL printer) 
+
+<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/Vz-Printhead-Printed-MGN12H_MGN9H-V2/main/images/Bed%20print_BVL.PNG">
